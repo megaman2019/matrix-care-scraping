@@ -1,0 +1,23 @@
+1. Open browser
+2. Type "https://greenfield.matrixcare.com"
+3. Type username "it7269"
+4. Type password "Welcome+1937"
+5. Click "Sign In" button
+6. Click on "Facility" menu
+7. Click on "Search Facility"
+8. Type Facility Name "<any name>"
+9. Click on "Search" button
+10. Select on "Montclair Manor" facility from the result
+11. Click on "Resident" menu
+12. Click on "Reports" menu item
+13. Click on "Search" button
+14. Click on each resident name
+15. Select "Event Detail List" radio button
+16. Click on "Next" button
+17. Type "Start Date" as 01/01/2010
+18. Click on "Report" button
+19. A pop-up window will display Print preview of report
+20. Click on "Save" button
+21. Type File name as "<facility_residentname_EVENTDETAILLIST>,pdf"
+22. Save to Dropbox folder
+23. Update Notepad logs with filename
